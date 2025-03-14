@@ -30,7 +30,10 @@
     "autoload": {
         "psr-4": {
             "Munindraai\\LaravelFilter\\": "src/",
-            "Munindraai\\LaravelFilter\\Database\\Factories\\": "database/factories/"
+            "Munindraai\\LaravelFilter\\Database\\Factories\\": "database/factories/",
+            "Munindraai\\LaravelFilter\\Filters\\": "src/Filters/"
+
+
         }
     },
     "autoload-dev": {
